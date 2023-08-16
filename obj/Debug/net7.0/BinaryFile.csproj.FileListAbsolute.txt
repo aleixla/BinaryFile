@@ -1,0 +1,15 @@
+O:\SCHEMI_C-SHARP\BinaryFile\bin\Debug\net7.0\BinaryFile.exe
+O:\SCHEMI_C-SHARP\BinaryFile\bin\Debug\net7.0\BinaryFile.deps.json
+O:\SCHEMI_C-SHARP\BinaryFile\bin\Debug\net7.0\BinaryFile.runtimeconfig.json
+O:\SCHEMI_C-SHARP\BinaryFile\bin\Debug\net7.0\BinaryFile.dll
+O:\SCHEMI_C-SHARP\BinaryFile\bin\Debug\net7.0\BinaryFile.pdb
+O:\SCHEMI_C-SHARP\BinaryFile\obj\Debug\net7.0\BinaryFile.csproj.AssemblyReference.cache
+O:\SCHEMI_C-SHARP\BinaryFile\obj\Debug\net7.0\BinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+O:\SCHEMI_C-SHARP\BinaryFile\obj\Debug\net7.0\BinaryFile.AssemblyInfoInputs.cache
+O:\SCHEMI_C-SHARP\BinaryFile\obj\Debug\net7.0\BinaryFile.AssemblyInfo.cs
+O:\SCHEMI_C-SHARP\BinaryFile\obj\Debug\net7.0\BinaryFile.csproj.CoreCompileInputs.cache
+O:\SCHEMI_C-SHARP\BinaryFile\obj\Debug\net7.0\BinaryFile.dll
+O:\SCHEMI_C-SHARP\BinaryFile\obj\Debug\net7.0\refint\BinaryFile.dll
+O:\SCHEMI_C-SHARP\BinaryFile\obj\Debug\net7.0\BinaryFile.pdb
+O:\SCHEMI_C-SHARP\BinaryFile\obj\Debug\net7.0\BinaryFile.genruntimeconfig.cache
+O:\SCHEMI_C-SHARP\BinaryFile\obj\Debug\net7.0\ref\BinaryFile.dll
